@@ -6,5 +6,6 @@ public class TestGit {
         System.out.println("idea test git...");
         System.out.println("idea test git 版本2...");
         System.out.println("idea test git 版本3...");
+        System.out.println("idea test git 版本4...");
     }
 }
