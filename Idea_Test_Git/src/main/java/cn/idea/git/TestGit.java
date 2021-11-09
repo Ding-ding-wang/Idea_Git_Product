@@ -9,5 +9,6 @@ public class TestGit {
         System.out.println("idea test git 版本4...");
         System.out.println("idea test git 版本5...wangbo 分支修改");
         System.out.println("idea test git 版本6...master 分支修改");
+        System.out.println("idea test git 版本6...wangbo 分支修改");
     }
 }
